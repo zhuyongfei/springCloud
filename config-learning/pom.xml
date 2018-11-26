@@ -20,7 +20,7 @@
 		<module>microservice-config-client-refresh</module>
 		<module>microservice-config-client-refresh-bus</module>
 	</modules>
-	
+
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
